@@ -1,4 +1,4 @@
-Kaggle-Ensemble-Guide
+Kaggle Ensemble Guide
 =====================
 
 A combination of Model Ensembling methods that is extremely useful for increasing accuracy of Kaggle's submission.
